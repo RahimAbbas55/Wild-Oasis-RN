@@ -128,6 +128,57 @@ Following are the dependencies that are essential for running this project smoot
 
 # Database Schema
 
+-> Table 1 (Users):
+
+    -> id (int8)
+
+    -> email (text)
+
+    -> username (text)
+
+    -> password (text)
+
+-> Table 2 (Cabins):
+
+    -> cabinId (int8)
+
+    -> name (text)
+
+    -> maxCapacity (int2)
+
+    -> discount (int2)
+
+    -> description (text)
+
+    -> regularPrice (int2)
+
+    -> image (text)
+
+-> Table 3 (Bookings):
+
+    -> id (int8)
+
+    -> startDate (timestamp)
+
+    -> endDate (timestamp)
+
+    -> noOfNights (int2)
+
+    -> noOfGuests (int2)
+
+    -> cabinPrice (float4)
+
+    -> totalPrice (float4)
+
+    -> status (text)
+
+    -> observations (text)
+
+    ->cabinId (int8) [Reference from "Cabins"]
+
+    -> user_id (int8) [Reference from "Users"]
+
+**Note: Make sure to keep the columns names same. If any of the column names are different, the code won't run because the column names are case sensitive**
 
 # How to run the project?
 
