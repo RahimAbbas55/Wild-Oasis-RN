@@ -13,8 +13,12 @@ This is a full-stack mobile application with proper user authentication, authori
 
 # Technologies Used:
 
--> Next JS - [ Framework ]
+-> React Native - [ Framework ]
 
--> React Hooks - [ useState, useTransition etc ]
+-> Supabase - [ Database ]
 
--> Tailwind CSS - [ Styling the website ]
+-> NodeJS - [ Payment Integration (Stripe) ]
+
+# Project Images
+
+## Left: Android , Right: IOS
