@@ -17,8 +17,8 @@ import {
   import { useStripe } from "@stripe/stripe-react-native";
   import { bookCabins, checkExistingBookings } from "../data/data-service";
   import { Platform } from "react-native";
-  import CustomButton from "../components/UI/CustomButton";
   import Toast from "../components/Static/Toast";
+  import CustomButton from "../components/UI/CustomButton";
   
   
   export default function ReservationForm({ navigation, route }) {
