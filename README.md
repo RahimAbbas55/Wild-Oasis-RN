@@ -126,6 +126,19 @@ Following are the dependencies that are essential for running this project smoot
  
  -> "react-native-vector-icons": "^10.2.0"
 
- # How to run the project?
+# Database Schema
+
+
+# How to run the project?
+
+1) Clone this repository.
+
+2) Make your "Stripe Developer Account" and copy your public and secret key in the "server/index.js" file.
+
+3) Create a supabase account and link it your project in the "data/supabase.js" file.
+
+4) Download all the relevant dependencies by using their commands from official documentation.
+
+5) Run the server and client side code by "npm start" in separate terminals and open in either your Android + IOS simulators or on your Expo Go application.
 
  
