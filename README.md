@@ -67,4 +67,65 @@ This is a full-stack mobile application with proper user authentication, authori
 
 <img width="1007" alt="Screenshot 2024-12-07 at 3 21 32 PM" src="https://github.com/user-attachments/assets/0ed56351-c823-46a3-925e-1af59457c516">
 
+
+# Dependencies used:
+
+Following are the dependencies that are essential for running this project smoothly:
+
+ -> "@react-native-async-storage/async-storage": "1.23.1",
+ 
+ -> "@react-navigation/bottom-tabs": "^6.6.1",
+ 
+ -> "@react-navigation/drawer": "^6.7.2",
+ 
+ -> "@react-navigation/native": "^6.1.18",
+ 
+ -> "@react-navigation/stack": "^6.4.1",
+ 
+ -> "@stripe/stripe-react-native": "^0.39.0",
+ 
+ -> "@supabase/supabase-js": "^2.45.4",
+ 
+ -> "body-parser": "^1.20.3",
+ 
+ -> "cors": "^2.8.5",
+ 
+ -> "expo": "~51.0.38",
+ 
+ -> "expo-app-loading": "^2.1.1",
+ 
+ -> "expo-font": "^12.0.10",
+ 
+ -> "expo-status-bar": "~1.12.1",
+ 
+ -> "express": "^4.21.1",
+ 
+ -> "jsonwebtoken": "^9.0.2",
+ 
+ -> "nodemon": "^3.1.7",
+ 
+ -> "react": "18.2.0",
+ 
+ -> "react-native": "0.74.5",
+ 
+ -> "react-native-confetti-cannon": "^1.5.2",
+ 
+ -> "react-native-dotenv": "^3.4.11",
+ 
+ -> "react-native-gesture-handler": "~2.16.1",
+ 
+ -> "react-native-reanimated": "~3.10.1",
+ 
+ -> "react-native-safe-area-context": "^4.10.5",
+ 
+ -> "react-native-screens": "^3.31.1",
+ 
+ -> "react-native-toast-message": "^2.2.1",
+ 
+ -> "react-native-url-polyfill": "^2.0.0",
+ 
+ -> "react-native-vector-icons": "^10.2.0"
+
+ # How to run the project?
+
  
