@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { View, Text, StyleSheet } from "react-native";
-import ConfettiCannon from "react-native-confetti-cannon";
 import { globalColors } from "../constants/colors";
+import ConfettiCannon from "react-native-confetti-cannon";
 import CustomButton from '../components/UI/CustomButton';
 export default function ThankYou({ navigation }) {
     const confettiRefLeft = React.useRef(null);
