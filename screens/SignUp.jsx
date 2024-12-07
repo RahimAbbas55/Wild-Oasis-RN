@@ -3,8 +3,8 @@ import { globalColors } from "../constants/colors";
 import { useState } from "react";
 import { signUp } from "../data/data-service";
 import { validateEmail, validatePassword, validateUsername } from "../data/util";
-import CustomButton from "../components/UI/CustomButton";
 import Toast from "../components/Static/Toast";  // Toast component import
+import CustomButton from "../components/UI/CustomButton";
 
 export default function SignUp({ navigation }) {
   const [username , setUsername] = useState('');
