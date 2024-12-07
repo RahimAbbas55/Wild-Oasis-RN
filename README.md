@@ -22,3 +22,13 @@ This is a full-stack mobile application with proper user authentication, authori
 # Project Images
 
 ## Left: Android , Right: IOS
+
+### Welcome Screen
+
+<img width="1033" alt="Screenshot 2024-12-07 at 2 30 30 PM" src="https://github.com/user-attachments/assets/d8c1d743-7f01-42a9-a65c-201103e49841">
+
+### SignUp Screen
+
+<img width="1102" alt="Screenshot 2024-12-07 at 2 30 42 PM" src="https://github.com/user-attachments/assets/2e6f6f46-87cd-4b3c-912e-92fada763879">
+
+
