@@ -7,9 +7,9 @@ import {
 } from "../data/data-service";
 import { fetchCabins } from "../data/util";
 import { globalColors } from "../constants/colors";
+import { FlatList } from "react-native";
 import ReservationCard from "../components/UI/ReservationCard";
 import Loader from "../components/Static/Loader";
-import { FlatList } from "react-native";
 
 const combineData = (cabinData, bookingData) => {
   if (cabinData && Array.isArray(bookingData)) {
