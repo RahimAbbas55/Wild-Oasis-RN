@@ -1,6 +1,6 @@
 import { Image, StyleSheet, Text, View } from "react-native";
-import CustomButton from "../components/UI/CustomButton";
 import { globalColors } from "../constants/colors";
+import CustomButton from "../components/UI/CustomButton";
 
 export default function WelcomeLogin({ navigation }) {
     function signUpHandler(){
