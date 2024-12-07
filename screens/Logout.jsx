@@ -1,7 +1,7 @@
 import { StyleSheet, View, Text } from 'react-native';
 import { globalColors } from '../constants/colors';
-import CustomButton from '../components/UI/CustomButton';
 import { signoutUser } from '../data/data-service';
+import CustomButton from '../components/UI/CustomButton';
 
 export default function Logout() {
   return (
