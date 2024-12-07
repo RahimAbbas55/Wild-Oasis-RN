@@ -49,5 +49,22 @@ This is a full-stack mobile application with proper user authentication, authori
 
 ### 7) Reservation/Booking Form Screen
 
+<img width="1011" alt="Screenshot 2024-12-07 at 3 21 08 PM" src="https://github.com/user-attachments/assets/4d705b08-6b7d-42ab-b89b-7a0607b1e913">
+
+### 8) Stripe Payment Sheet
+
+<img width="1027" alt="Screenshot 2024-12-07 at 2 35 09 PM" src="https://github.com/user-attachments/assets/e8e7ffb3-22b2-4630-b191-33b04d6d48ec">
+
+### 9) Booking Confirm Screen
+
+<img width="1042" alt="Screenshot 2024-12-07 at 2 35 53 PM" src="https://github.com/user-attachments/assets/779cced1-1cb8-4710-be3e-b6974ed2ef01">
+
+### 10) About Us Screen
+
+<img width="1149" alt="Screenshot 2024-12-07 at 2 36 35 PM" src="https://github.com/user-attachments/assets/a3f57cff-90db-44c5-801c-17f9bb12864a">
+
+### 11) My Reservations Screen
+
+<img width="1007" alt="Screenshot 2024-12-07 at 3 21 32 PM" src="https://github.com/user-attachments/assets/0ed56351-c823-46a3-925e-1af59457c516">
 
  
